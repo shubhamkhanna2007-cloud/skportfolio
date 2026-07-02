@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shubhamkhanna.vercel.app/sitemap.xml
+
